@@ -2,6 +2,7 @@
 
 ![enter image description here](https://github.com/kuldeepsingh82/Kafka/blob/master/images/kafka.jpg)
 
+[**Kafka Advance Configuration**](https://github.com/kuldeepsingh82/Kafka/blob/master/ADVACNE_CONFIG.md)
 
 ## Console Commands
 
